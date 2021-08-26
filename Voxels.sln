@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Voxels", "Voxels.vcproj", "{BB992A35-36A6-4720-92E3-D97BBFFD9259}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BB992A35-36A6-4720-92E3-D97BBFFD9259}.Debug.ActiveCfg = Release|Win32
+		{BB992A35-36A6-4720-92E3-D97BBFFD9259}.Debug.Build.0 = Release|Win32
+		{BB992A35-36A6-4720-92E3-D97BBFFD9259}.Release.ActiveCfg = Release|Win32
+		{BB992A35-36A6-4720-92E3-D97BBFFD9259}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
